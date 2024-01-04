@@ -2,7 +2,7 @@
 
 ## Discontinued
 
-### This project is no longer maintained, and will not receive further updates.
+### This project is a just a fork
 
 
 A Flutter plugin that provides a [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/start).
